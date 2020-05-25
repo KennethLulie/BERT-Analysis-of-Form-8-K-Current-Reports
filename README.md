@@ -1,6 +1,9 @@
 # BERT-Analysis-of-Form-8-K-Current-Reports
 Capstone Project for Masters in Data Analytics, Analysis of Form 8-Ks Current Reports including creation of dataset.
 
+I have split the work logicially into different jupyter notebooks and have comments to help deciphyer any areas that are non-obvious.
+If you have any questions or would like me to send you the data I have pulled please email me at Kenneth.Lulie@gmail.com.
+
 
 This project was completed for the capstone project of the Master's in Data Analytics from UMUC. 
 This project uses BERT to categorize Form 8-Ks, a report mandated by law when certain signficant events happen as a listed company,
