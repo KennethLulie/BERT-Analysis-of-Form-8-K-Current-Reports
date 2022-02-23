@@ -1,7 +1,7 @@
 # BERT-Analysis-of-Form-8-K-Current-Reports
 Capstone Project for Masters in Data Analytics, Analysis of Form 8-Ks Current Reports including creation of dataset.
 
-I have split the work logicially into different jupyter notebooks and have comments to help deciphyer any areas that are non-obvious.
+I have split the work logicially into different jupyter notebooks and have comments to help decipher any areas that are non-obvious.
 If you have any questions or would like me to send you the data I have pulled please email me at Kenneth.Lulie@gmail.com.
 
 
